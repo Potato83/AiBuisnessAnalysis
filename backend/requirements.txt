@@ -1,0 +1,4 @@
+# Fixed runtime dependencies for reproducible bootstrap builds.
+fastapi==0.116.1
+uvicorn==0.35.0
+psycopg[binary]==3.2.9
