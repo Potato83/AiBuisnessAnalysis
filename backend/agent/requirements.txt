@@ -1,0 +1,3 @@
+# Standalone AI dependencies. Backend owner can include this file during integration.
+pydantic==2.14.1
+python-dotenv==1.1.1
